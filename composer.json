@@ -1,0 +1,9 @@
+{
+    "name": "arm/repo",
+
+    "autoload": {
+        "psr-4": {
+            "Arm\\RepoBuilder\\": "src"
+        }
+    }
+}
